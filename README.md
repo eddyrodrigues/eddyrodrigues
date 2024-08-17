@@ -1,7 +1,7 @@
 ## Hello!
 
 ### About Me
-Hi 👋, I'm Eduardo, an Electrical Engineering student with a passion for programming, logic, problem-solving, and developing solutions for various needs.
+Dear, I'm glad you came here! Please, be comfortable to look at my projects!
 
 ### Technologies I Use Frequently
 - **ASP.NET**
