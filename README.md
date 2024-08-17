@@ -4,10 +4,9 @@
 Hi 👋, I'm Eduardo, an Electrical Engineering student with a passion for programming, logic, problem-solving, and developing solutions for various needs.
 
 ### Technologies I Use Frequently
-- **Asp.net**
-- **MS SQLServer**
+- **ASP.NET**
+- **SQLServer**
 - **VueJS**
-- **AngularJS**
 
 ### Education and Certifications
 - [Fundamentals of ASP.NET6](https://balta.io/certificados/d1e9ce21-7085-412c-92f3-f94d7b279642)
