@@ -1,7 +1,3 @@
-Claro! Aqui está a tradução do README para o inglês:
-
----
-
 # 👨‍💻 Eduardo - Software Engineer
 
 ## 👋 Welcome to my GitHub!
