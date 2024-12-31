@@ -18,7 +18,7 @@ I’m a software engineer with 6 years of experience, currently working at DC Lo
 ## 🛠️ Technical Skills
 
 ### Programming Languages:
-- **C#** (3 years of experience)
+- **C#** (5 years of experience)
 - **JavaScript** (Vue.js, Angular, React)
 - **Python** (Web Scraping with Selenium)
 
